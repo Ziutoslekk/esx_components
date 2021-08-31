@@ -2,8 +2,8 @@ Config = {}
 
 Config.Locales = {
 	["silencer"] = "Tłumik",
-    ["sight"] = "Celownik",
-    ["flashlight"] = "Latarka",
+	["sight"] = "Celownik",
+	["flashlight"] = "Latarka",
 	["magazine"] = "Powiększony magazynek",
 }
 
@@ -13,7 +13,7 @@ Config.Components = {
 
 		silencer = 0x65EA7EBB,
 		magazine = 0xED265A1C,
-        flashlight = 0x359B7AAE
+		flashlight = 0x359B7AAE
 	},
 	[`weapon_pistol_mk2`] = {
 		label = "Pistol Mk II",
@@ -21,14 +21,14 @@ Config.Components = {
 		silencer = 0x65EA7EBB,
 		sight = 0x8ED4BB70,
 		magazine = 0x5ED6C128,
-        flashlight = 0x43FD595B
+    	flashlight = 0x43FD595B
 	},
 	[`weapon_combatpistol`] = {
 		label = "Combat Pistol",
 
 		silencer = 0xC304849A,
 		magazine = 0xD67B4F2D,
-        flashlight = 0x359B7AAE
+    	flashlight = 0x359B7AAE
 	},
 	[`weapon_ceramicpistol`] = {
 		label = "Ceramic Pistol",
@@ -41,7 +41,7 @@ Config.Components = {
 
 		silencer = 0xC304849A,
 		magazine = 0x249A17D5,
-        flashlight = 0x359B7AAE
+    	flashlight = 0x359B7AAE
 	},
 	[`weapon_snspistol`] = {
 		label = "SNS Pistol",
@@ -54,14 +54,14 @@ Config.Components = {
 		silencer = 0x65EA7EBB,
 		sight = 0x47DE9258,
 		magazine = 0xCE8C0772,
-        flashlight = 0x4A4965F3
+    	flashlight = 0x4A4965F3
 	},
 	[`weapon_heavypistol`] = {
 		label = "Heavy Pistol",
 
 		silencer = 0xC304849A,
 		magazine = 0x64F9C62B,
-        flashlight = 0x359B7AAE
+    	flashlight = 0x359B7AAE
 	},
 	[`weapon_vintagepistol`] = {
 		label = "Vintage Pistol",
@@ -74,26 +74,26 @@ Config.Components = {
 
 		silencer = 0xA73D4664,
 		magazine = 0xD9D3AC92,
-        flashlight = 0x359B7AAE
+    	flashlight = 0x359B7AAE
 	},
 	[`weapon_pumpshotgun`] = {
 		label = "Pump Shotgun",
 
 		silencer = 0xE608B35E,
-        flashlight = 0x7BC4CDDC
+    	flashlight = 0x7BC4CDDC
 	},
 	[`weapon_pumpshotgun_mk2`] = {
 		label = "Pump Shotgun Mk II",
 
 		silencer = 0xAC42DF71,
 		sight = 0x3F3C8181,
-        flashlight = 0x7BC4CDDC
+    	flashlight = 0x7BC4CDDC
 	},
 	[`weapon_bullpupshotgun`] = {
 		label = "Bullpup Shotgun",
 
 		silencer = 0xA73D4664,
-        flashlight = 0x7BC4CDDC
+    	flashlight = 0x7BC4CDDC
 	},
 	[`weapon_assaultrifle`] = {
 		label = "Assault Rifle",
@@ -101,7 +101,7 @@ Config.Components = {
 		silencer = 0xA73D4664,
 		sight = 0x9D2FBF29,
 		magazine = 0xB1214F9B,
-        flashlight = 0x7BC4CDDC
+    	flashlight = 0x7BC4CDDC
 	},
 	[`weapon_carbinerifle`] = {
 		label = "Carbine Rifle",
@@ -109,7 +109,7 @@ Config.Components = {
 		silencer = 0x837445AA,
 		sight = 0xA0D89C42,
 		magazine = 0x91109691,
-        flashlight = 0x7BC4CDDC
+    	flashlight = 0x7BC4CDDC
 	},
 	[`weapon_compactrifle`] = {
 		label = "Compact Rifle",
@@ -122,7 +122,7 @@ Config.Components = {
 		silencer = 0xA73D4664,
 		sight = 0x9D2FBF29,
 		magazine = 0x10E6BA2B,
-        flashlight = 0x359B7AAE
+    	flashlight = 0x359B7AAE
 	},
 	[`weapon_smg`] = {
 		label = "SMG",
@@ -130,7 +130,7 @@ Config.Components = {
 		silencer = 0xC304849A,
 		sight = 0x3CC6BA57,
 		magazine = 0x350966FB,
-        flashlight = 0x7BC4CDDC
+    	flashlight = 0x7BC4CDDC
 	},
 	[`weapon_smg_mk2`] = {
 		label = "SMG Mk II",
@@ -138,7 +138,7 @@ Config.Components = {
 		silencer = 0xC304849A,
 		sight = 0x3DECC7DA,
 		magazine = 0xB9835B2E,
-        flashlight = 0x7BC4CDDC
+    	flashlight = 0x7BC4CDDC
 	},
 	[`weapon_assaultsmg`] = {
 		label = "Assault SMG",
@@ -146,13 +146,13 @@ Config.Components = {
 		silencer = 0xA73D4664,
 		sight = 0x9D2FBF29,
 		magazine = 0xBB46E417,
-        flashlight = 0x7BC4CDDC
+    	flashlight = 0x7BC4CDDC
 	},
 	[`weapon_combatpdw`] = {
 		label = "Combat PDW",
 
 		magazine = 0x334A5203,
 		sight = 0xAA2C45B4,
-        flashlight = 0x7BC4CDDC
+    	flashlight = 0x7BC4CDDC
 	},
 }
