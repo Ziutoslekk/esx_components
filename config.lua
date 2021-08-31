@@ -8,6 +8,16 @@ Config.Locales = {
 }
 
 Config.Components = {
+	--[[ 
+	[`weapon_example`] = {
+		label = "Example",
+
+		?silencer = 0x65EA7EBB,
+		?sight = 0x8ED4BB70,
+		?magazine = 0x5ED6C128,
+		?flashlight = 0x43FD595B
+	},
+	]]
 	[`weapon_pistol`] = {
 		label = "Pistol",
 
