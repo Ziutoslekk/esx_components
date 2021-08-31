@@ -17,7 +17,7 @@ Config.Components = {
 		?magazine = 0x5ED6C128,
 		?flashlight = 0x43FD595B
 	},
-	]]
+	]]--
 	[`weapon_pistol`] = {
 		label = "Pistol",
 
